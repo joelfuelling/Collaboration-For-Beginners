@@ -469,4 +469,4 @@
 ##### Name: [Joel F](https://github.com/joelfuelling)
 - Place: Chicago, United States
 - Bio: Student
-- GitHub: [Marcos S](https://github.com/joelfuelling)
+- GitHub: [Joel F](https://github.com/joelfuelling)
