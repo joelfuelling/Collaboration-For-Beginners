@@ -460,9 +460,13 @@
 - Place: Chicago, U.S.A
 - Bio: 10x developer
 - Github: [Odell](https://github.com/itsOdell)
-)
 
 ##### Name: [Marcos S](https://github.com/msastre73)
 - Place: Buenos Aires, Argentina
 - Bio: Student
 - GitHub: [Marcos S](https://github.com/msastre73)
+
+##### Name: [Joel F](https://github.com/joelfuelling)
+- Place: Chicago, United States
+- Bio: Student
+- GitHub: [Marcos S](https://github.com/joelfuelling)
